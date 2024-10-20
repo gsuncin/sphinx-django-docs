@@ -1,0 +1,4 @@
+django-docs
+Django
+sphinx
+sphinx-rtd-theme
